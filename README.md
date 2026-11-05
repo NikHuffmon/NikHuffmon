@@ -25,4 +25,3 @@ My interests lie at the intersection of **artificial intelligence, machine learn
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nikhuffmon)
-- [GitHub](https://github.com/NikHuffmon)
